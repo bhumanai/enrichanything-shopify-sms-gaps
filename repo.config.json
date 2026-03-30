@@ -5,7 +5,7 @@
   "theme": "Useful if you sell retention strategy, lifecycle marketing, or SMS setup for ecommerce brands.",
   "accentColor": "#a16207",
   "siteOrigin": "https://www.enrichanything.com",
-  "generatedAt": "2026-03-30T12:56:27.493Z",
+  "generatedAt": "2026-03-30T13:28:06.691Z",
   "topics": [
     "shopify",
     "ecommerce",
@@ -439,6 +439,10 @@
     }
   ],
   "trackedHomeUrl": "https://www.enrichanything.com/?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=repo-home",
+  "socialImagePath": "assets/social-preview.png",
+  "socialImageSvgPath": "assets/social-preview.svg",
+  "socialImageUrl": "https://bhumanai.github.io/enrichanything-shopify-sms-gaps/assets/social-preview.png",
+  "socialImageSvgUrl": "https://bhumanai.github.io/enrichanything-shopify-sms-gaps/assets/social-preview.svg",
   "featuredMarketTitle": "Shopify brands in France using Klaviyo but not SMS tooling",
   "featuredMarketUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms",
   "featuredReportSlug": "france-klaviyo-sms-gap",

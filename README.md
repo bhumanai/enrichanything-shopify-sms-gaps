@@ -1,5 +1,7 @@
 # Shopify Brands Running Klaviyo Without SMS
 
+![Shopify Brands Running Klaviyo Without SMS](assets/social-preview.png)
+
 Lists of Shopify brands already using Klaviyo email but still missing a visible SMS layer.
 
 Useful if you sell retention strategy, lifecycle marketing, or SMS setup for ecommerce brands.
