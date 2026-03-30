@@ -14,8 +14,16 @@ Useful if you sell retention strategy, lifecycle marketing, or SMS setup for eco
 
 - Source product: https://www.enrichanything.com
 - GitHub repo: https://github.com/bhumanai/enrichanything-shopify-sms-gaps
+- Public API docs: https://www.enrichanything.com/api/
+- OpenAPI spec: https://www.enrichanything.com/openapi.json
 - Last refresh: March 30, 2026
 - Refresh command: `npm run refresh`
+
+## Developer links
+
+- Public API docs: [EnrichAnything API](https://www.enrichanything.com/api/)
+- Node SDK repo: [enrichanything-public-api-node](https://github.com/bhumanai/enrichanything-public-api-node)
+- Python SDK repo: [enrichanything-public-api-python](https://github.com/bhumanai/enrichanything-public-api-python)
 
 ## Use this repo if...
 
