@@ -1,0 +1,8 @@
+{
+  "name": "enrichanything-shopify-sms-gaps",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/refresh.js"
+  }
+}
