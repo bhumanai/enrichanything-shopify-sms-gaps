@@ -5,7 +5,7 @@
   "theme": "Useful if you sell retention strategy, lifecycle marketing, or SMS setup for ecommerce brands.",
   "accentColor": "#a16207",
   "siteOrigin": "https://www.enrichanything.com",
-  "generatedAt": "2026-03-30T13:28:06.691Z",
+  "generatedAt": "2026-03-31T08:31:16.349Z",
   "topics": [
     "shopify",
     "ecommerce",
@@ -26,7 +26,7 @@
       "startSlug": "shopify-france-klaviyo-no-sms",
       "startTitle": "Shopify brands in France using Klaviyo but not SMS tooling",
       "startStatus": "live",
-      "startUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms",
+      "startUrl": "https://www.enrichanything.com/datasets/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms-dataset",
       "startReadmePath": "markets/shopify-france-klaviyo-no-sms/README.md"
     },
     {
@@ -35,7 +35,7 @@
       "startSlug": "shopify-germany-klaviyo-no-sms",
       "startTitle": "Shopify brands in Germany using Klaviyo but not SMS tooling",
       "startStatus": "live",
-      "startUrl": "https://www.enrichanything.com/markets/shopify-germany-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-germany-klaviyo-no-sms",
+      "startUrl": "https://www.enrichanything.com/datasets/markets/shopify-germany-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-germany-klaviyo-no-sms-dataset",
       "startReadmePath": "markets/shopify-germany-klaviyo-no-sms/README.md"
     },
     {
@@ -44,7 +44,7 @@
       "startSlug": "shopify-france-klaviyo-no-sms",
       "startTitle": "Shopify brands in France using Klaviyo but not SMS tooling",
       "startStatus": "live",
-      "startUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms",
+      "startUrl": "https://www.enrichanything.com/datasets/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms-dataset",
       "startReadmePath": "markets/shopify-france-klaviyo-no-sms/README.md"
     }
   ],
@@ -109,6 +109,13 @@
       "reportSlug": "france-klaviyo-sms-gap",
       "siteUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms",
       "reportUrl": "https://www.enrichanything.com/reports/france-klaviyo-sms-gap",
+      "snapshotId": "2026-03-27-b4d4422768",
+      "datasetUrl": "https://www.enrichanything.com/datasets/markets/shopify-france-klaviyo-no-sms",
+      "datasetJsonUrl": "https://www.enrichanything.com/datasets/markets/shopify-france-klaviyo-no-sms/payload.json",
+      "datasetCsvUrl": "https://www.enrichanything.com/datasets/markets/shopify-france-klaviyo-no-sms/sample-rows.csv",
+      "snapshotUrl": "https://www.enrichanything.com/snapshots/markets/shopify-france-klaviyo-no-sms/2026-03-27-b4d4422768",
+      "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/markets/shopify-france-klaviyo-no-sms/2026-03-27-b4d4422768/payload.json",
+      "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/markets/shopify-france-klaviyo-no-sms/2026-03-27-b4d4422768/sample-rows.csv",
       "status": "live",
       "live": true,
       "dataSource": "collected_sample",
@@ -152,6 +159,8 @@
       ],
       "repoReadmePath": "markets/shopify-france-klaviyo-no-sms/README.md",
       "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-shopify-sms-gaps/blob/main/markets/shopify-france-klaviyo-no-sms/README.md",
+      "trackedDatasetUrl": "https://www.enrichanything.com/datasets/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms-dataset",
+      "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/markets/shopify-france-klaviyo-no-sms/2026-03-27-b4d4422768?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms-snapshot",
       "trackedSiteUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms",
       "trackedReportUrl": "https://www.enrichanything.com/reports/france-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms-report"
     },
@@ -215,6 +224,13 @@
       "reportSlug": "germany-klaviyo-sms-gap",
       "siteUrl": "https://www.enrichanything.com/markets/shopify-germany-klaviyo-no-sms",
       "reportUrl": "https://www.enrichanything.com/reports/germany-klaviyo-sms-gap",
+      "snapshotId": "2026-03-28-16faeac300",
+      "datasetUrl": "https://www.enrichanything.com/datasets/markets/shopify-germany-klaviyo-no-sms",
+      "datasetJsonUrl": "https://www.enrichanything.com/datasets/markets/shopify-germany-klaviyo-no-sms/payload.json",
+      "datasetCsvUrl": "https://www.enrichanything.com/datasets/markets/shopify-germany-klaviyo-no-sms/sample-rows.csv",
+      "snapshotUrl": "https://www.enrichanything.com/snapshots/markets/shopify-germany-klaviyo-no-sms/2026-03-28-16faeac300",
+      "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/markets/shopify-germany-klaviyo-no-sms/2026-03-28-16faeac300/payload.json",
+      "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/markets/shopify-germany-klaviyo-no-sms/2026-03-28-16faeac300/sample-rows.csv",
       "status": "live",
       "live": true,
       "dataSource": "collected_sample",
@@ -258,6 +274,8 @@
       ],
       "repoReadmePath": "markets/shopify-germany-klaviyo-no-sms/README.md",
       "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-shopify-sms-gaps/blob/main/markets/shopify-germany-klaviyo-no-sms/README.md",
+      "trackedDatasetUrl": "https://www.enrichanything.com/datasets/markets/shopify-germany-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-germany-klaviyo-no-sms-dataset",
+      "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/markets/shopify-germany-klaviyo-no-sms/2026-03-28-16faeac300?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-germany-klaviyo-no-sms-snapshot",
       "trackedSiteUrl": "https://www.enrichanything.com/markets/shopify-germany-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-germany-klaviyo-no-sms",
       "trackedReportUrl": "https://www.enrichanything.com/reports/germany-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-germany-klaviyo-no-sms-report"
     }
@@ -272,6 +290,13 @@
       "marketSlug": "shopify-france-klaviyo-no-sms",
       "marketUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms",
       "siteUrl": "https://www.enrichanything.com/reports/france-klaviyo-sms-gap",
+      "snapshotId": "2026-03-27-b4096c1ba6",
+      "datasetUrl": "https://www.enrichanything.com/datasets/reports/france-klaviyo-sms-gap",
+      "datasetJsonUrl": "https://www.enrichanything.com/datasets/reports/france-klaviyo-sms-gap/payload.json",
+      "datasetCsvUrl": "https://www.enrichanything.com/datasets/reports/france-klaviyo-sms-gap/sample-rows.csv",
+      "snapshotUrl": "https://www.enrichanything.com/snapshots/reports/france-klaviyo-sms-gap/2026-03-27-b4096c1ba6",
+      "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/reports/france-klaviyo-sms-gap/2026-03-27-b4096c1ba6/payload.json",
+      "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/reports/france-klaviyo-sms-gap/2026-03-27-b4096c1ba6/sample-rows.csv",
       "status": "live",
       "live": true,
       "dataSource": "collected_sample",
@@ -347,6 +372,8 @@
       ],
       "repoReadmePath": "reports/france-klaviyo-sms-gap/README.md",
       "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-shopify-sms-gaps/blob/main/reports/france-klaviyo-sms-gap/README.md",
+      "trackedDatasetUrl": "https://www.enrichanything.com/datasets/reports/france-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-france-klaviyo-sms-gap-dataset",
+      "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/france-klaviyo-sms-gap/2026-03-27-b4096c1ba6?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-france-klaviyo-sms-gap-snapshot",
       "trackedSiteUrl": "https://www.enrichanything.com/reports/france-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-france-klaviyo-sms-gap",
       "trackedMarketUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-france-klaviyo-sms-gap-market"
     },
@@ -359,6 +386,13 @@
       "marketSlug": "shopify-germany-klaviyo-no-sms",
       "marketUrl": "https://www.enrichanything.com/markets/shopify-germany-klaviyo-no-sms",
       "siteUrl": "https://www.enrichanything.com/reports/germany-klaviyo-sms-gap",
+      "snapshotId": "2026-03-28-93ca75fafd",
+      "datasetUrl": "https://www.enrichanything.com/datasets/reports/germany-klaviyo-sms-gap",
+      "datasetJsonUrl": "https://www.enrichanything.com/datasets/reports/germany-klaviyo-sms-gap/payload.json",
+      "datasetCsvUrl": "https://www.enrichanything.com/datasets/reports/germany-klaviyo-sms-gap/sample-rows.csv",
+      "snapshotUrl": "https://www.enrichanything.com/snapshots/reports/germany-klaviyo-sms-gap/2026-03-28-93ca75fafd",
+      "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/reports/germany-klaviyo-sms-gap/2026-03-28-93ca75fafd/payload.json",
+      "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/reports/germany-klaviyo-sms-gap/2026-03-28-93ca75fafd/sample-rows.csv",
       "status": "live",
       "live": true,
       "dataSource": "collected_sample",
@@ -434,6 +468,8 @@
       ],
       "repoReadmePath": "reports/germany-klaviyo-sms-gap/README.md",
       "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-shopify-sms-gaps/blob/main/reports/germany-klaviyo-sms-gap/README.md",
+      "trackedDatasetUrl": "https://www.enrichanything.com/datasets/reports/germany-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-germany-klaviyo-sms-gap-dataset",
+      "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/germany-klaviyo-sms-gap/2026-03-28-93ca75fafd?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-germany-klaviyo-sms-gap-snapshot",
       "trackedSiteUrl": "https://www.enrichanything.com/reports/germany-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-germany-klaviyo-sms-gap",
       "trackedMarketUrl": "https://www.enrichanything.com/markets/shopify-germany-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-germany-klaviyo-sms-gap-market"
     }
@@ -444,8 +480,10 @@
   "socialImageUrl": "https://bhumanai.github.io/enrichanything-shopify-sms-gaps/assets/social-preview.png",
   "socialImageSvgUrl": "https://bhumanai.github.io/enrichanything-shopify-sms-gaps/assets/social-preview.svg",
   "featuredMarketTitle": "Shopify brands in France using Klaviyo but not SMS tooling",
-  "featuredMarketUrl": "https://www.enrichanything.com/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms",
+  "featuredMarketUrl": "https://www.enrichanything.com/datasets/markets/shopify-france-klaviyo-no-sms?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms-dataset",
+  "featuredMarketSnapshotUrl": "https://www.enrichanything.com/snapshots/markets/shopify-france-klaviyo-no-sms/2026-03-27-b4d4422768?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=market-shopify-france-klaviyo-no-sms-snapshot",
   "featuredReportSlug": "france-klaviyo-sms-gap",
   "featuredReportTitle": "French Shopify brands still leave SMS out of an otherwise mature Klaviyo stack",
-  "featuredReportUrl": "https://www.enrichanything.com/reports/france-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-france-klaviyo-sms-gap"
+  "featuredReportUrl": "https://www.enrichanything.com/datasets/reports/france-klaviyo-sms-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-france-klaviyo-sms-gap-dataset",
+  "featuredReportSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/france-klaviyo-sms-gap/2026-03-27-b4096c1ba6?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-shopify-sms-gaps&utm_content=report-france-klaviyo-sms-gap-snapshot"
 }
